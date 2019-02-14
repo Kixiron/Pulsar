@@ -1,0 +1,11 @@
+G:\Local File Server\Programming\C#\Pulsar\Pulsar\bin\Debug\netcoreapp2.1\Pulsar.deps.json
+G:\Local File Server\Programming\C#\Pulsar\Pulsar\bin\Debug\netcoreapp2.1\Pulsar.runtimeconfig.json
+G:\Local File Server\Programming\C#\Pulsar\Pulsar\bin\Debug\netcoreapp2.1\Pulsar.runtimeconfig.dev.json
+G:\Local File Server\Programming\C#\Pulsar\Pulsar\bin\Debug\netcoreapp2.1\Pulsar.dll
+G:\Local File Server\Programming\C#\Pulsar\Pulsar\obj\Debug\netcoreapp2.1\Pulsar.csproj.CoreCompileInputs.cache
+G:\Local File Server\Programming\C#\Pulsar\Pulsar\obj\Debug\netcoreapp2.1\Pulsar.AssemblyInfoInputs.cache
+G:\Local File Server\Programming\C#\Pulsar\Pulsar\obj\Debug\netcoreapp2.1\Pulsar.AssemblyInfo.cs
+G:\Local File Server\Programming\C#\Pulsar\Pulsar\bin\Debug\netcoreapp2.1\Pulsar.pdb
+G:\Local File Server\Programming\C#\Pulsar\Pulsar\obj\Debug\netcoreapp2.1\Pulsar.dll
+G:\Local File Server\Programming\C#\Pulsar\Pulsar\obj\Debug\netcoreapp2.1\Pulsar.pdb
+G:\Local File Server\Programming\C#\Pulsar\Pulsar\obj\Debug\netcoreapp2.1\Pulsar.csprojAssemblyReference.cache

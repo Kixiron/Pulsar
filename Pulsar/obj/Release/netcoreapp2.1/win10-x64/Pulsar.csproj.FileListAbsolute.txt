@@ -1,0 +1,10 @@
+G:\Local File Server\Programming\C#\Pulsar\Pulsar\bin\Release\netcoreapp2.1\win10-x64\Pulsar.deps.json
+G:\Local File Server\Programming\C#\Pulsar\Pulsar\bin\Release\netcoreapp2.1\win10-x64\Pulsar.runtimeconfig.json
+G:\Local File Server\Programming\C#\Pulsar\Pulsar\bin\Release\netcoreapp2.1\win10-x64\Pulsar.runtimeconfig.dev.json
+G:\Local File Server\Programming\C#\Pulsar\Pulsar\bin\Release\netcoreapp2.1\win10-x64\Pulsar.dll
+G:\Local File Server\Programming\C#\Pulsar\Pulsar\bin\Release\netcoreapp2.1\win10-x64\Pulsar.pdb
+G:\Local File Server\Programming\C#\Pulsar\Pulsar\obj\Release\netcoreapp2.1\win10-x64\Pulsar.csproj.CoreCompileInputs.cache
+G:\Local File Server\Programming\C#\Pulsar\Pulsar\obj\Release\netcoreapp2.1\win10-x64\Pulsar.AssemblyInfoInputs.cache
+G:\Local File Server\Programming\C#\Pulsar\Pulsar\obj\Release\netcoreapp2.1\win10-x64\Pulsar.AssemblyInfo.cs
+G:\Local File Server\Programming\C#\Pulsar\Pulsar\obj\Release\netcoreapp2.1\win10-x64\Pulsar.dll
+G:\Local File Server\Programming\C#\Pulsar\Pulsar\obj\Release\netcoreapp2.1\win10-x64\Pulsar.pdb

@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RuntimeIdentifiers>win10-x64</RuntimeIdentifiers>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Discord.Net" Version="2.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite.Design" Version="1.1.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.2.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Resources\Extensions\" />
+    <Folder Include="Core\Events\Channel" />
+    <Folder Include="Core\Events\Message" />
+    <Folder Include="Core\Events\Role" />
+    <Folder Include="Core\Events\Server" />
+    <Folder Include="Core\Events\User" />
+  </ItemGroup>
+
+</Project>

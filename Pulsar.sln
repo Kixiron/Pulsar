@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pulsar", "Pulsar\Pulsar.csproj", "{B7709C6C-197B-40FE-AFAD-297D410AAAB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7709C6C-197B-40FE-AFAD-297D410AAAB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7709C6C-197B-40FE-AFAD-297D410AAAB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7709C6C-197B-40FE-AFAD-297D410AAAB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7709C6C-197B-40FE-AFAD-297D410AAAB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5FA823E-7636-4556-B562-0BBB396154E4}
+	EndGlobalSection
+EndGlobal
